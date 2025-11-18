@@ -1,4 +1,8 @@
+## Problem Solutions
 
+All solutions are implemented in `solution.ts` file. Each function and class follows the exact requirements specified in the assignment.
+
+## Blogs content 
 
 # 1) TypeScript-এ Interface এবং Type এর মধ্যে পার্থক্য
 
